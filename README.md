@@ -1,1 +1,1 @@
-*this is git initializing*
+this is a vagrant file
